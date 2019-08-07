@@ -1,3 +1,4 @@
+console.log("-------------------------------------------")
 require("dotenv").config();
 //storing a path for the keys
 var keys = require("./keys.js");
@@ -6,7 +7,7 @@ var Spotify = require("node-spotify-api")
 var axios = require("axios");
 var moment = require("moment");
 var spotify = new Spotify(keys.spotify);
-console.log(spotify)
+
 
 
 var getArtistName = function (artist) {
