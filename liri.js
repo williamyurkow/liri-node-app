@@ -126,7 +126,8 @@ var pick = function(caseData, functionData) {
       case "spotify-this-song":
       getMeSpotify(functionData);
       break; 
-      case getMovie(functionData):
+      case "movie-this":
+      getMovie(functionData);
       break;
       case "do-what-it-says":
       doWhatItSays();
