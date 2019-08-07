@@ -4,10 +4,10 @@
 1. Clone this repo 
 2. `cd` into the cloned repo 
 3. Run `npm install` 
-4. Choose function commands to use in the terminal then run "node liri.js" "commands" (Concert-this, Movie-This, Spotify-This, do-what-it-says) which will get back the information you requested from either Spotify, OMDB, Bands in town. 
+4. In your terminal, run the command `node liri.js <command> <query>`
 
 ### Commands 
-- `concert-this`
+- `concert-this` will be your command to find the concerts based on the query, pass through an artist's name as the query. 
 - `movie-this`
 - `spotify-this-song`
 - `do-what-it-says`
