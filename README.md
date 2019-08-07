@@ -10,7 +10,7 @@
 - `concert-this` this will be your command to find the concerts based on the query, pass through an artist's name as the query. 
 - `movie-this` this will be your command to find movie information based on the query, pass through a movie name as the query. 
 - `spotify-this-song` this will be your command to access song information based on the query, pass through a song name as the query. 
-- `do-what-it-says`
+- `do-what-it-says` this will be the command to to access the random.txt file and use the text inside of it. It will access songs based on the query, it will pass through a song name as the query just like spotify-this-song. 
 
 ### Screenshots
 
