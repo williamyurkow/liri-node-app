@@ -8,10 +8,11 @@
 
 ### Commands 
 - `concert-this` will be your command to find the concerts based on the query, pass through an artist's name as the query. 
-- `movie-this`
+- `movie-this` will be your command to find 
 - `spotify-this-song`
 - `do-what-it-says`
 
 ### Screenshots
 
 ![image1](/images/image1.png)
+![image2](/images/image2.png)
