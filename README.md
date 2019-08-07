@@ -14,4 +14,4 @@
 
 ### Screenshots
 
-![image1](/images/Screenshot (9).png)
+![image1](/images/image1.png)
